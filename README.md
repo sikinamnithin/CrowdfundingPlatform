@@ -99,6 +99,4 @@ To learn more about the technologies used in this project:
 - **Advanced Voting**: Implement weighted voting or quadratic voting.
 - **Analytics**: Visualize funding and voting data.
 
-## License
 
-This project is licensed under the MIT License.
